@@ -1,0 +1,22 @@
+{
+  "name": "database-mysql-nodejs",
+  "version": "1.0.0",
+  "description": "connect MySQL database with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterlee7/database-mysql-nodejs.git"
+  },
+  "author": "Walter Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walterlee7/database-mysql-nodejs/issues"
+  },
+  "homepage": "https://github.com/walterlee7/database-mysql-nodejs#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
