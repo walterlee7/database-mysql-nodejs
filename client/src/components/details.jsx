@@ -109,6 +109,7 @@ class Details extends Component {
                     }
                 })}
                 <ChirpForm postChirp={(text) => { this.updateChirp(text); }} />
+
             </div>
         );
     }
